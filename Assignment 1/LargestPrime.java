@@ -5,7 +5,6 @@
 public class LargestPrime {
     public static void main(String[] args) {
         long n = 600851475143L;
-
         for (long i = 2; i < n/2 ; i++) {
             while (n%i==0) {        //if yes -> largest prime
                 n=n/i;             
