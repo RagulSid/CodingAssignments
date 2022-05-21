@@ -1,5 +1,5 @@
 // Problem 10
-// Next problem : 
+// Next problem : https://github.com/RagulSid/CodingAssignments/blob/main/Assignment%201/GreatestProduct.java
 // The sum of the primes below 10 is 2 + 3 + 5 + 7 = 17.
 
 // Find the sum of all the primes below two million.

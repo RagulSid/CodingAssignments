@@ -1,5 +1,5 @@
 // Problem 17
-// Next problem : 
+// Next problem : https://github.com/RagulSid/CodingAssignments/blob/main/Assignment%201/MaximumTotalTriangle.java
 // If the numbers 1 to 5 are written out in words: one, two, three, four, five, then there
 // are 3 + 3 + 5 + 4 + 4 = 19 letters used in total.
 

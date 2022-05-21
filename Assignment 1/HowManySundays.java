@@ -1,5 +1,5 @@
 // Problem 19
-// Next problem : 
+// Next problem : https://github.com/RagulSid/CodingAssignments/blob/main/Assignment%201/SumofDigits.java
 // You are given the following information, but you may prefer to do some research for
 // yourself
 

@@ -1,5 +1,5 @@
 // Problem 6
-// Next problem : 
+// Next problem : https://github.com/RagulSid/CodingAssignments/blob/main/Assignment%201/NthPrime.java
 // The sum of the squares of the first ten natural numbers is,
 //  1^2+ 2^2 + 2^3+.....+ 10^2 = 385
 

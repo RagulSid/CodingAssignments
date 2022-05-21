@@ -1,5 +1,5 @@
 // Problem 11
-// Next problem : 
+// Next problem : https://github.com/RagulSid/CodingAssignments/blob/main/Assignment%201/TriangleNum.java
 // In the 20×20 grid below, four numbers along a diagonal line have been marked in
 // red (starred here)
 
